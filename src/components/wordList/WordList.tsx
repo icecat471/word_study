@@ -3,11 +3,11 @@ import { Table, Tag, Space } from 'antd';
 import wordList from '../../words/wordList';
 
 const columns = [
-    {
-        title: '日付',
-        dataIndex: 'date',
-        key: 'date'
-    },
+    // {
+    //     title: '日付',
+    //     dataIndex: 'date',
+    //     key: 'date'
+    // },
     {
         title: '韓国語',
         dataIndex: 'korean',
@@ -31,7 +31,8 @@ const WordList: React.FC = () => {
         <div style={{
             paddingTop: 100, 
             paddingLeft: 50, 
-            paddingRight: 50, 
+            paddingRight: 50,
+            maxWidth: 800, 
             width: '100%'
         }}>
             <Table 
