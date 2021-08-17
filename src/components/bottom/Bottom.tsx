@@ -3,9 +3,10 @@ import React, { useState } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import BottomNavigation from '@material-ui/core/BottomNavigation';
 import BottomNavigationAction from '@material-ui/core/BottomNavigationAction';
-import RestoreIcon from '@material-ui/icons/Restore';
-import FavoriteIcon from '@material-ui/icons/Favorite';
-import LocationOnIcon from '@material-ui/icons/LocationOn';
+import HomeIcon from '@material-ui/icons/Home';
+import ListIcon from '@material-ui/icons/List';
+import BorderColorIcon from '@material-ui/icons/BorderColor';
+import PersonIcon from '@material-ui/icons/Person';
 
 import config from '../../config/config';
 import { useHistory } from 'react-router';
@@ -50,7 +51,7 @@ const Bottom: React.FC = () => {
         >
             <BottomNavigationAction 
                 label="ホーム" 
-                icon={<RestoreIcon />} 
+                icon={<HomeIcon />} 
                 classes={bottomActionClass}
                 onClick={() => {
                     onActionClicked('/');
@@ -58,7 +59,7 @@ const Bottom: React.FC = () => {
             />
             <BottomNavigationAction 
                 label="単語リスト" 
-                icon={<RestoreIcon />} 
+                icon={<ListIcon />} 
                 classes={bottomActionClass}
                 onClick={() => {
                     onActionClicked('/list');
@@ -66,7 +67,7 @@ const Bottom: React.FC = () => {
             />
             <BottomNavigationAction 
                 label="覚えましょう" 
-                icon={<FavoriteIcon />} 
+                icon={<PersonIcon />} 
                 classes={bottomActionClass}
                 onClick={() => {
                     onActionClicked('/memorize');
@@ -74,7 +75,7 @@ const Bottom: React.FC = () => {
             />
             <BottomNavigationAction  
                 label="テスト" 
-                icon={<LocationOnIcon />} 
+                icon={<BorderColorIcon />} 
                 classes={bottomActionClass}
                 onClick={() => {
                     onActionClicked('/test');
