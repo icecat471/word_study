@@ -125,6 +125,16 @@ const wordList: Word[] = [
     { id: 117, date: '2021-08-15', korean: '바빠서', japanese: '忙しくて'},
     { id: 118, date: '2021-08-15', korean: '못 해요', japanese: '出来ません'},
     { id: 119, date: '2021-08-15', korean: '경찰서', japanese: '警察署'},
+    { id: 120, date: '2021-08-16', korean: '마셔서', japanese: '飲んで'},
+    { id: 121, date: '2021-08-16', korean: '잃어버린', japanese: '失くした'},
+    { id: 122, date: '2021-08-16', korean: '지갑', japanese: '財布'},
+    { id: 123, date: '2021-08-16', korean: '취미', japanese: '趣味'},
+    { id: 124, date: '2021-08-16', korean: '문제', japanese: '問題'},
+    { id: 125, date: '2021-08-16', korean: '나오다', japanese: '出る'},
+    { id: 126, date: '2021-08-16', korean: '나왔습니다', japanese: '出ました'},
+    { id: 127, date: '2021-08-16', korean: '마실 것', japanese: '飲み物'},
+    { id: 128, date: '2021-08-16', korean: '음료수', japanese: '飲料水'},
+    { id: 129, date: '2021-08-16', korean: '드시다', japanese: '召し上がる'},
 ];
 
 export default wordList;
