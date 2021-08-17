@@ -4,7 +4,7 @@ const MyHeader: React.FC = () => {
 
   return (
     <div style={{
-      backgroundColor: '#77dd77',
+      backgroundColor: '#ffe6ec',
       padding: '8px 12px',
       color: '#000000',
       fontSize: 30,
