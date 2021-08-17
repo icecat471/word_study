@@ -20,3 +20,32 @@
 .dateText {
     display: inline;
 }
+
+.btn-start {
+    text-align: center;
+}
+
+.btns {
+    text-align: center;
+}
+
+.word-card-wrapper {
+    padding: 30px;
+    text-align: center;
+}
+
+.word-card-wrapper .word-card {
+    border: grey solid 2px;
+    width: 300px;
+    height: 180px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 180px;
+
+    position:absolute;
+    top: 52%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+}
