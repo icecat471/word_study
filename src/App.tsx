@@ -18,12 +18,16 @@ const { Footer } = Layout;
 const App: React.FC = () => {
   return (
     <BrowserRouter>
-      <MyHeader></MyHeader>
-      <Route exact path={baseURL + "/"} component={Home}></Route>
-      <Route path={baseURL + "/list"} component={WordList}></Route>
-      <Route path={baseURL + "/memorize"} component={Memorize}></Route>
-      <Route path={baseURL + "/test"} component={Test}></Route>
+      <Layout className="layout">
+        <MyHeader></MyHeader>
+        <Route exact path={baseURL + "/"} component={Home}></Route>
+        <Route path={baseURL + "/list"} component={WordList}></Route>
+        <Route path={baseURL + "/memorize"} component={Memorize}></Route>
+        <Route path={baseURL + "/test"} component={Test}></Route>
+        <Footer style={{ textAlign: 'center' }}>Study Korean for Mizu.</Footer>
+      </Layout>
     </BrowserRouter>
+
   );
 }
 
