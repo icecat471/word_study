@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Table, Tag, Space } from 'antd';
 import wordList from '../../words/wordList';
 
 const columns = [
@@ -28,22 +27,7 @@ const WordList: React.FC = () => {
     });
 
     return (
-        <div style={{
-            paddingTop: 100, 
-            paddingLeft: 50, 
-            paddingRight: 50,
-            maxWidth: 800, 
-            width: '100%'
-        }}>
-            <Table 
-                dataSource={dataSource} 
-                columns={columns}
-                bordered
-                pagination={{
-                    defaultPageSize: 10,
-                    pageSizeOptions: ['10']
-                }}
-            ></Table>
+        <div>
         </div>
     )
 }

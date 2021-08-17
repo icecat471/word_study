@@ -2,7 +2,7 @@ import react from 'react';
 
 const Home: React.FC = () => {
     return (
-        <div style={{paddingTop: 100}}>
+        <div>
             홈<br/>
         </div>
     );

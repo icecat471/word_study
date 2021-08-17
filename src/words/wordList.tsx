@@ -13,7 +13,7 @@ const wordList: Word[] = [
     { key: 5, date: '2021-08-08', korean: '등산', japanese: '登山'},
     { key: 6, date: '2021-08-08', korean: '탈의실', japanese: 'ロッカールーム'},
     { key: 7, date: '2021-08-08', korean: '세탁소', japanese: 'クリーニング屋'},
-    { key: 8, date: '2021-08-08', korean: '감기에 걸리다', japanese: '감기에 걸리다'},
+    { key: 8, date: '2021-08-08', korean: '감기에 걸리다', japanese: '風邪をひく'},
     { key: 9, date: '2021-08-08', korean: '감기약', japanese: '風邪薬'},
     { key: 10, date: '2021-08-08', korean: '도시락', japanese: 'お弁当'},
     { key: 11, date: '2021-08-08', korean: '출발', japanese: '出発'},
