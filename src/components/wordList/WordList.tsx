@@ -17,6 +17,8 @@ import LastPageIcon from '@material-ui/icons/LastPage';
 
 import wordList from '../../words/wordList';
 
+const rowsPerPage = 10;
+
 const StyledTableCell = withStyles((theme: Theme) =>
   createStyles({
     head: {
@@ -98,15 +100,16 @@ function TablePaginationActions(props: TablePaginationActionsProps) {
 
 const useStyles2 = makeStyles({
   table: {
-    minWidth: 500,
+    width: '100%',
+    minWidth: 400,
   },
 });
 
 const WordList: React.FC = () => {
   const classes = useStyles2();
   const [page, setPage] = React.useState(0);
-  const [rowsPerPage, setRowsPerPage] = React.useState(10);
 
+  // 검색시 필터 적용
     const rows = wordList.filter((element) => {
         return true;
     });
@@ -119,20 +122,13 @@ const WordList: React.FC = () => {
     setPage(newPage);
   };
 
-  const handleChangeRowsPerPage = (
-    event: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>,
-  ) => {
-    setRowsPerPage(parseInt(event.target.value, 10));
-    setPage(0);
-  };
-
   return (
     <TableContainer component={Paper}>
-      <Table className={classes.table} aria-label="custom pagination table">
+      <Table className={classes.table} aria-label="word table">
       <TableHead>
           <TableRow>
-            <StyledTableCell align="center">韓国語</StyledTableCell>
-            <StyledTableCell align="center">日本語</StyledTableCell>
+            <StyledTableCell>韓国語</StyledTableCell>
+            <StyledTableCell>日本語</StyledTableCell>
           </TableRow>
         </TableHead>
         <TableBody>
@@ -147,14 +143,14 @@ const WordList: React.FC = () => {
           ))}
           {emptyRows > 0 && (
             <TableRow style={{ height: 53 * emptyRows }}>
-              <TableCell colSpan={6} />
+              <TableCell colSpan={3} />
             </TableRow>
           )}
         </TableBody>
         <TableFooter>
           <TableRow>
             <TablePagination
-              rowsPerPageOptions={[5, 10, 25, { label: 'All', value: -1 }]}
+              rowsPerPageOptions={[10]}
               colSpan={3}
               count={rows.length}
               rowsPerPage={rowsPerPage}
@@ -164,7 +160,6 @@ const WordList: React.FC = () => {
                 native: true,
               }}
               onPageChange={handleChangePage}
-              onRowsPerPageChange={handleChangeRowsPerPage}
               ActionsComponent={TablePaginationActions}
             />
           </TableRow>
