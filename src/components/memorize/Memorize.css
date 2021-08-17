@@ -31,6 +31,7 @@
 
 .word-card-wrapper {
     padding: 30px;
+    height: 180px;
     text-align: center;
 }
 
@@ -42,8 +43,8 @@
     text-align: center;
     line-height: 180px;
 
-    position:absolute;
-    top: 52%;
+    position:relative;
+    top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
