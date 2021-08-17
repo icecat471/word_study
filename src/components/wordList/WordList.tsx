@@ -19,7 +19,7 @@ import SearchIcon from '@material-ui/icons/Search'
 
 import wordList from '../../words/wordList';
 
-const rowsPerPage = 8;
+const rowsPerPage = 10;
 
 const StyledTableCell = withStyles((theme: Theme) =>
   createStyles({
@@ -194,6 +194,7 @@ const WordList: React.FC = () => {
           </TableFooter>
         </Table>
       </TableContainer>
+      <div style={{margin:100}}></div>
     </div>
   );
 };
