@@ -5,8 +5,8 @@ import BottomNavigation from '@material-ui/core/BottomNavigation';
 import BottomNavigationAction from '@material-ui/core/BottomNavigationAction';
 import HomeIcon from '@material-ui/icons/Home';
 import ListIcon from '@material-ui/icons/List';
+import AspectRatioIcon from '@material-ui/icons/AspectRatio';
 import BorderColorIcon from '@material-ui/icons/BorderColor';
-import PersonIcon from '@material-ui/icons/Person';
 
 import config from '../../config/config';
 import { useHistory } from 'react-router';
@@ -15,7 +15,7 @@ const { baseURL } = config;
 const bottomStyle = makeStyles({
     root: {
         width: '100%',
-        position: 'absolute',
+        position: 'fixed',
         left: 0,
         bottom: 0,
     },
@@ -66,8 +66,8 @@ const Bottom: React.FC = () => {
                 }}
             />
             <BottomNavigationAction 
-                label="覚えましょう" 
-                icon={<PersonIcon />} 
+                label="単語カード" 
+                icon={<AspectRatioIcon />} 
                 classes={bottomActionClass}
                 onClick={() => {
                     onActionClicked('/memorize');

@@ -1,16 +1,12 @@
 import React from 'react';
-import config from '../../config/config';
-const { baseURL } = config;
-
-
 
 const MyHeader: React.FC = () => {
 
   return (
     <div style={{
-      backgroundColor: '#000000',
+      backgroundColor: '#77dd77',
       padding: '8px 12px',
-      color: 'white',
+      color: '#000000',
       fontSize: 30,
       position: 'fixed',
       top: 0,
