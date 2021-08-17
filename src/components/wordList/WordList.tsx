@@ -120,6 +120,8 @@ const WordList: React.FC = () => {
         e.korean.includes(word)
       );
     });
+    setPage(0);
+    setRows(temp);
   }, [word])
 
   const emptyRows = rowsPerPage - Math.min(rowsPerPage, rows.length - page * rowsPerPage);
