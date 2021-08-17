@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/word_study/static/js/main.dd6cd060.chunk.js",
-    "main.js.map": "/word_study/static/js/main.dd6cd060.chunk.js.map",
+    "main.js": "/word_study/static/js/main.20ff1879.chunk.js",
+    "main.js.map": "/word_study/static/js/main.20ff1879.chunk.js.map",
     "runtime-main.js": "/word_study/static/js/runtime-main.3a5a6bb0.js",
     "runtime-main.js.map": "/word_study/static/js/runtime-main.3a5a6bb0.js.map",
-    "static/js/2.98a56a91.chunk.js": "/word_study/static/js/2.98a56a91.chunk.js",
-    "static/js/2.98a56a91.chunk.js.map": "/word_study/static/js/2.98a56a91.chunk.js.map",
+    "static/js/2.6cc2ef30.chunk.js": "/word_study/static/js/2.6cc2ef30.chunk.js",
+    "static/js/2.6cc2ef30.chunk.js.map": "/word_study/static/js/2.6cc2ef30.chunk.js.map",
     "index.html": "/word_study/index.html",
-    "static/js/2.98a56a91.chunk.js.LICENSE.txt": "/word_study/static/js/2.98a56a91.chunk.js.LICENSE.txt"
+    "static/js/2.6cc2ef30.chunk.js.LICENSE.txt": "/word_study/static/js/2.6cc2ef30.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a5a6bb0.js",
-    "static/js/2.98a56a91.chunk.js",
-    "static/js/main.dd6cd060.chunk.js"
+    "static/js/2.6cc2ef30.chunk.js",
+    "static/js/main.20ff1879.chunk.js"
   ]
 }
