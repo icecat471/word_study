@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { withStyles, makeStyles, useTheme, Theme, createStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';
 import TableHead from '@material-ui/core/TableHead';
@@ -14,10 +14,12 @@ import FirstPageIcon from '@material-ui/icons/FirstPage';
 import KeyboardArrowLeft from '@material-ui/icons/KeyboardArrowLeft';
 import KeyboardArrowRight from '@material-ui/icons/KeyboardArrowRight';
 import LastPageIcon from '@material-ui/icons/LastPage';
+import TextField from '@material-ui/core/TextField';
+import SearchIcon from '@material-ui/icons/Search'
 
 import wordList from '../../words/wordList';
 
-const rowsPerPage = 10;
+const rowsPerPage = 8;
 
 const StyledTableCell = withStyles((theme: Theme) =>
   createStyles({
@@ -107,65 +109,90 @@ const useStyles2 = makeStyles({
 
 const WordList: React.FC = () => {
   const classes = useStyles2();
-  const [page, setPage] = React.useState(0);
+  const [page, setPage] = useState<number>(0);
+  const [word, setWord] = useState<string>('');
+  const [rows, setRows] = useState(wordList);
 
-  // 검색시 필터 적용
-    const rows = wordList.filter((element) => {
-        return true;
+  useEffect(() => {
+    const temp = wordList.filter((e) => {
+      return (
+        e.japanese.includes(word) ||
+        e.korean.includes(word)
+      );
     });
-
+  }, [word])
 
   const emptyRows = rowsPerPage - Math.min(rowsPerPage, rows.length - page * rowsPerPage);
-
 
   const handleChangePage = (event: React.MouseEvent<HTMLButtonElement> | null, newPage: number) => {
     setPage(newPage);
   };
 
+  const onSearchButtonClicked = () => {
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    if(!searchInput) return;
+
+    setWord(searchInput.value);
+  }
+
   return (
-    <TableContainer component={Paper}>
-      <Table className={classes.table} aria-label="word table">
-      <TableHead>
-          <TableRow>
-            <StyledTableCell>韓国語</StyledTableCell>
-            <StyledTableCell>日本語</StyledTableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {(rowsPerPage > 0
-            ? rows.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
-            : rows
-          ).map((row) => (
-            <TableRow key={row.id}>
-              <TableCell>{row.korean}</TableCell>
-              <TableCell>{row.japanese}</TableCell>
+    <div>
+      <div style={{textAlign:'right'}}>
+        <TextField id="search-input" label="search" />
+        <IconButton 
+          color="primary" 
+          aria-label="search" 
+          component="span"
+          onClick={onSearchButtonClicked}
+        >
+          <SearchIcon />
+        </IconButton>
+      </div>
+      <div style={{margin:10}}></div>
+      <TableContainer component={Paper}>
+        <Table className={classes.table} aria-label="word table">
+        <TableHead>
+            <TableRow>
+              <StyledTableCell>韓国語</StyledTableCell>
+              <StyledTableCell>日本語</StyledTableCell>
             </TableRow>
-          ))}
-          {emptyRows > 0 && (
-            <TableRow style={{ height: 53 * emptyRows }}>
-              <TableCell colSpan={3} />
+          </TableHead>
+          <TableBody>
+            {(rowsPerPage > 0
+              ? rows.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
+              : rows
+            ).map((row) => (
+              <TableRow key={row.id}>
+                <TableCell>{row.korean}</TableCell>
+                <TableCell>{row.japanese}</TableCell>
+              </TableRow>
+            ))}
+            {emptyRows > 0 && (
+              <TableRow style={{ height: 53 * emptyRows }}>
+                <TableCell colSpan={3} />
+              </TableRow>
+            )}
+          </TableBody>
+          <TableFooter>
+            <TableRow>
+              <TablePagination
+                rowsPerPageOptions={[10]}
+                colSpan={3}
+                count={rows.length}
+                rowsPerPage={rowsPerPage}
+                page={page}
+                SelectProps={{
+                  inputProps: { 'aria-label': 'rows per page' },
+                  native: true,
+                }}
+                onPageChange={handleChangePage}
+                ActionsComponent={TablePaginationActions}
+              />
             </TableRow>
-          )}
-        </TableBody>
-        <TableFooter>
-          <TableRow>
-            <TablePagination
-              rowsPerPageOptions={[10]}
-              colSpan={3}
-              count={rows.length}
-              rowsPerPage={rowsPerPage}
-              page={page}
-              SelectProps={{
-                inputProps: { 'aria-label': 'rows per page' },
-                native: true,
-              }}
-              onPageChange={handleChangePage}
-              ActionsComponent={TablePaginationActions}
-            />
-          </TableRow>
-        </TableFooter>
-      </Table>
-    </TableContainer>
+          </TableFooter>
+        </Table>
+      </TableContainer>
+    </div>
   );
 };
 

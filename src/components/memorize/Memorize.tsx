@@ -6,7 +6,7 @@ import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import 'react-datepicker/dist/react-datepicker.css';
 import './Memorize.css';
 
-import wordList from '../../words/wordList';
+import wordList, { Word } from '../../words/wordList';
 import getRandomNumber from '../../common/random';
 
 import { isBetween } from '../../common/date';
@@ -24,7 +24,7 @@ const Memorize: React.FC = () => {
 
     const [startDate, setStartDate] = useState<Date>(new Date());
     const [endDate, setEndDate] = useState<Date>(new Date());
-    const [words, setWords] = useState(wordList);
+    const [words, setWords] = useState<Word[]>([]);
     const [wordIndex, setWordIndex] = useState(0);
 
     useEffect(() => {
@@ -66,14 +66,17 @@ const Memorize: React.FC = () => {
     }
 
     const showKorean = () => {
+        if(words.length === 0) return;
         if(wordCard) wordCard.innerText =  words[wordIndex].korean;
     }
 
     const showJapanese = () => {
+        if(words.length === 0) return;
         if(wordCard) wordCard.innerText =  words[wordIndex].japanese;
     }
 
     const showNextWord = () => {
+        if(words.length === 0) return;
         let temp: number;
         while(true) {
             temp = getRandomNumber(words.length);
