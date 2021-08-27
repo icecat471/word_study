@@ -214,7 +214,7 @@ const wordList: Word[] = [
     { id: 206, date: '2021-08-25', korean: '공원', japanese: '公園'},
     { id: 207, date: '2021-08-25', korean: '산책하다', japanese: '散歩する'},
     { id: 208, date: '2021-08-25', korean: '놀다', japanese: '遊ぶ'},
-    { id: 209, date: '2021-08-25', korean: '물건', japanese: '物 / 商品'},
+    { id: 209, date: '2021-08-25', korean: '물건', japanese: '物 / 品物'},
     { id: 210, date: '2021-08-25', korean: '비싸다', japanese: '高い(値段)'},
     { id: 211, date: '2021-08-25', korean: '상품', japanese: '商品'},
     { id: 212, date: '2021-08-25', korean: '아픈', japanese: '痛い・・・'},
