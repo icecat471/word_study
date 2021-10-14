@@ -443,6 +443,17 @@ const wordList: Word[] = [
     { id: 434, date: '2021-10-12', korean: '늦게', japanese: '遅く'},
     { id: 435, date: '2021-10-12', korean: '구두', japanese: '靴'},
     { id: 436, date: '2021-10-12', korean: '신발', japanese: '履物'},
+    { id: 437, date: '2021-10-14', korean: '근처', japanese: '近所'},
+    { id: 438, date: '2021-10-14', korean: '주위', japanese: '周囲'},
+    { id: 439, date: '2021-10-14', korean: '자기소개', japanese: '自己紹介'},
+    { id: 440, date: '2021-10-14', korean: '잠', japanese: '睡眠'},
+    { id: 441, date: '2021-10-14', korean: '일어나다', japanese: '起きる'},
+    { id: 442, date: '2021-10-14', korean: '소극장', japanese: '小劇場'},
+    { id: 443, date: '2021-10-14', korean: '소개', japanese: '紹介'},
+    { id: 444, date: '2021-10-14', korean: '소개 받다', japanese: '紹介してもらう'},
+    { id: 445, date: '2021-10-14', korean: '잠을 자다', japanese: '睡眠を取る'},
+    { id: 446, date: '2021-10-14', korean: '극장', japanese: '劇場'},
+    { id: 447, date: '2021-10-14', korean: '끝나다', japanese: '終わる'},
     
 ];
 
