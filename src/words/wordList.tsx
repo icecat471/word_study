@@ -573,6 +573,4 @@ const wordList = words.map((word) => {
     }
 });
 
-console.log('@@@@@@@@@@', wordList)
-
 export default wordList;
