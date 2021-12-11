@@ -567,1760 +567,1760 @@ const words: Word[] = [
   {
     "id": 555,
     "date": "2021-10-25",
-    "japanese": "모두",
-    "korean": "すべて / 皆"
+    "korean": "모두",
+    "japanese": "すべて / 皆"
   },
   {
     "id": 556,
     "date": "2021-10-25",
-    "japanese": "전부",
-    "korean": "全部"
+    "korean": "전부",
+    "japanese": "全部"
   },
   {
     "id": 557,
     "date": "2021-10-25",
-    "japanese": "다",
-    "korean": "皆"
+    "korean": "다",
+    "japanese": "皆"
   },
   {
     "id": 558,
     "date": "2021-10-25",
-    "japanese": "전혀",
-    "korean": "全然"
+    "korean": "전혀",
+    "japanese": "全然"
   },
   {
     "id": 559,
     "date": "2021-10-25",
-    "japanese": "지나다",
-    "korean": "経つ / 過ぎる"
+    "korean": "지나다",
+    "japanese": "経つ / 過ぎる"
   },
   {
     "id": 560,
     "date": "2021-10-25",
-    "japanese": "지난주",
-    "korean": "先週"
+    "korean": "지난주",
+    "japanese": "先週"
   },
   {
     "id": 561,
     "date": "2021-10-25",
-    "japanese": "지난달",
-    "korean": "先月"
+    "korean": "지난달",
+    "japanese": "先月"
   },
   {
     "id": 562,
     "date": "2021-10-25",
-    "japanese": "지난해",
-    "korean": "去年"
+    "korean": "지난해",
+    "japanese": "去年"
   },
   {
     "id": 563,
     "date": "2021-10-25",
-    "japanese": "도착하다",
-    "korean": "到着する"
+    "korean": "도착하다",
+    "japanese": "到着する"
   },
   {
     "id": 564,
     "date": "2021-10-25",
-    "japanese": "시간이 지나다",
-    "korean": "時間が経つ"
+    "korean": "시간이 지나다",
+    "japanese": "時間が経つ"
   },
   {
     "id": 565,
     "date": "2021-10-25",
-    "japanese": "도와주다",
-    "korean": "助けてあげる / 助けてくれる / 手伝う"
+    "korean": "도와주다",
+    "japanese": "助けてあげる / 助けてくれる / 手伝う"
   },
   {
     "id": 566,
     "date": "2021-10-25",
-    "japanese": "돕다",
-    "korean": "助ける"
+    "korean": "돕다",
+    "japanese": "助ける"
   },
   {
     "id": 567,
     "date": "2021-10-25",
-    "japanese": "돌보다",
-    "korean": "面倒見る"
+    "korean": "돌보다",
+    "japanese": "面倒見る"
   },
   {
     "id": 568,
     "date": "2021-10-25",
-    "japanese": "운전",
-    "korean": "運転"
+    "korean": "운전",
+    "japanese": "運転"
   },
   {
     "id": 569,
     "date": "2021-10-25",
-    "japanese": "운전면허증",
-    "korean": "運転免許書"
+    "korean": "운전면허증",
+    "japanese": "運転免許書"
   },
   {
     "id": 570,
     "date": "2021-10-25",
-    "japanese": "따다",
-    "korean": "取る"
+    "korean": "따다",
+    "japanese": "取る"
   },
   {
     "id": 571,
     "date": "2021-10-25",
-    "japanese": "운전면허를 따다",
-    "korean": "運転免許を取る"
+    "korean": "운전면허를 따다",
+    "japanese": "運転免許を取る"
   },
   {
     "id": 572,
     "date": "2021-10-25",
-    "japanese": "~아/어 주다",
-    "korean": "~してあげる / ~してくれる"
+    "korean": "~아/어 주다",
+    "japanese": "~してあげる / ~してくれる"
   },
   {
     "id": 573,
     "date": "2021-10-25",
-    "japanese": "받다",
-    "korean": "もらう"
+    "korean": "받다",
+    "japanese": "もらう"
   },
   {
     "id": 574,
     "date": "2021-10-25",
-    "japanese": "주시다",
-    "korean": "くださる"
+    "korean": "주시다",
+    "japanese": "くださる"
   },
   {
     "id": 575,
     "date": "2021-10-25",
-    "japanese": "드리다",
-    "korean": "差し上げる"
+    "korean": "드리다",
+    "japanese": "差し上げる"
   },
   {
     "id": 576,
     "date": "2021-10-26",
-    "japanese": "지갑",
-    "korean": "財布"
+    "korean": "지갑",
+    "japanese": "財布"
   },
   {
     "id": 577,
     "date": "2021-10-26",
-    "japanese": "(지갑에) 넣다",
-    "korean": "(財布に)入れる"
+    "korean": "(지갑에) 넣다",
+    "japanese": "(財布に)入れる"
   },
   {
     "id": 578,
     "date": "2021-10-26",
-    "japanese": "(지갑에서) 꺼내다",
-    "korean": "(財布から)取り出す"
+    "korean": "(지갑에서) 꺼내다",
+    "japanese": "(財布から)取り出す"
   },
   {
     "id": 579,
     "date": "2021-10-26",
-    "japanese": "친하게 지내다",
-    "korean": "仲良くする"
+    "korean": "친하게 지내다",
+    "japanese": "仲良くする"
   },
   {
     "id": 580,
     "date": "2021-10-26",
-    "japanese": "초대",
-    "korean": "招待"
+    "korean": "초대",
+    "japanese": "招待"
   },
   {
     "id": 581,
     "date": "2021-10-26",
-    "japanese": "초대장",
-    "korean": "招待状"
+    "korean": "초대장",
+    "japanese": "招待状"
   },
   {
     "id": 582,
     "date": "2021-10-26",
-    "japanese": "초대를 받다",
-    "korean": "招待をされる"
+    "korean": "초대를 받다",
+    "japanese": "招待をされる"
   },
   {
     "id": 583,
     "date": "2021-10-26",
-    "japanese": "초대 손님",
-    "korean": "招待客"
+    "korean": "초대 손님",
+    "japanese": "招待客"
   },
   {
     "id": 584,
     "date": "2021-10-26",
-    "japanese": "내리다",
-    "korean": "降りる / 降る"
+    "korean": "내리다",
+    "japanese": "降りる / 降る"
   },
   {
     "id": 585,
     "date": "2021-10-26",
-    "japanese": "비가 내리다",
-    "korean": "雨が降る"
+    "korean": "비가 내리다",
+    "japanese": "雨が降る"
   },
   {
     "id": 586,
     "date": "2021-10-26",
-    "japanese": "차에서 내리다",
-    "korean": "車から降りる"
+    "korean": "차에서 내리다",
+    "japanese": "車から降りる"
   },
   {
     "id": 587,
     "date": "2021-10-26",
-    "japanese": "돌아가다",
-    "korean": "帰っていく / 戻る"
+    "korean": "돌아가다",
+    "japanese": "帰っていく / 戻る"
   },
   {
     "id": 588,
     "date": "2021-10-26",
-    "japanese": "자리로 돌아가다",
-    "korean": "席に戻る"
+    "korean": "자리로 돌아가다",
+    "japanese": "席に戻る"
   },
   {
     "id": 589,
     "date": "2021-10-26",
-    "japanese": "돌아오다",
-    "korean": "帰ってくる"
+    "korean": "돌아오다",
+    "japanese": "帰ってくる"
   },
   {
     "id": 590,
     "date": "2021-10-26",
-    "japanese": "돌아가시다",
-    "korean": "お戻りにする / 亡くなる"
+    "korean": "돌아가시다",
+    "japanese": "お戻りにする / 亡くなる"
   },
   {
     "id": 591,
     "date": "2021-10-26",
-    "japanese": "내려서・・・",
-    "korean": "降りて・・・ / 降って・・・"
+    "korean": "내려서・・・",
+    "japanese": "降りて・・・ / 降って・・・"
   },
   {
     "id": 592,
     "date": "2021-10-26",
-    "japanese": "사전",
-    "korean": "辞書"
+    "korean": "사전",
+    "japanese": "辞書"
   },
   {
     "id": 593,
     "date": "2021-10-26",
-    "japanese": "사전을 찾다",
-    "korean": "辞書を引く"
+    "korean": "사전을 찾다",
+    "japanese": "辞書を引く"
   },
   {
     "id": 594,
     "date": "2021-10-26",
-    "japanese": "방송",
-    "korean": "放送"
+    "korean": "방송",
+    "japanese": "放送"
   },
   {
     "id": 595,
     "date": "2021-10-26",
-    "japanese": "방송국",
-    "korean": "放送局"
+    "korean": "방송국",
+    "japanese": "放送局"
   },
   {
     "id": 596,
     "date": "2021-10-26",
-    "japanese": "음악 방송",
-    "korean": "音楽番組"
+    "korean": "음악 방송",
+    "japanese": "音楽番組"
   },
   {
     "id": 597,
     "date": "2021-10-26",
-    "japanese": "시사 프로그램",
-    "korean": "時事番組"
+    "korean": "시사 프로그램",
+    "japanese": "時事番組"
   },
   {
     "id": 598,
     "date": "2021-10-26",
-    "japanese": "부탁하다",
-    "korean": "頼む / 願う"
+    "korean": "부탁하다",
+    "japanese": "頼む / 願う"
   },
   {
     "id": 599,
     "date": "2021-10-26",
-    "japanese": "아이를 부탁하다",
-    "korean": "子供の世話を頼む"
+    "korean": "아이를 부탁하다",
+    "japanese": "子供の世話を頼む"
   },
   {
     "id": 600,
     "date": "2021-10-26",
-    "japanese": "부탁하시다",
-    "korean": "お頼みする / お願いする"
+    "korean": "부탁하시다",
+    "japanese": "お頼みする / お願いする"
   },
   {
     "id": 601,
     "date": "2021-10-26",
-    "japanese": "부탁해서",
-    "korean": "頼んで / 願って"
+    "korean": "부탁해서",
+    "japanese": "頼んで / 願って"
   },
   {
     "id": 602,
     "date": "2021-10-26",
-    "japanese": "언제나",
-    "korean": "いつも"
+    "korean": "언제나",
+    "japanese": "いつも"
   },
   {
     "id": 603,
     "date": "2021-10-26",
-    "japanese": "늦다",
-    "korean": "遅れる"
+    "korean": "늦다",
+    "japanese": "遅れる"
   },
   {
     "id": 604,
     "date": "2021-10-26",
-    "japanese": "늘",
-    "korean": "いつも"
+    "korean": "늘",
+    "japanese": "いつも"
   },
   {
     "id": 605,
     "date": "2021-10-26",
-    "japanese": "연습",
-    "korean": "練習"
+    "korean": "연습",
+    "japanese": "練習"
   },
   {
     "id": 606,
     "date": "2021-10-26",
-    "japanese": "열심히 연습을 하다",
-    "korean": "一生懸命に練習する"
+    "korean": "열심히 연습을 하다",
+    "japanese": "一生懸命に練習する"
   },
   {
     "id": 607,
     "date": "2021-10-26",
-    "japanese": "이용하다",
-    "korean": "利用する"
+    "korean": "이용하다",
+    "japanese": "利用する"
   },
   {
     "id": 608,
     "date": "2021-10-26",
-    "japanese": "나이",
-    "korean": "年 / 年齢"
+    "korean": "나이",
+    "japanese": "年 / 年齢"
   },
   {
     "id": 609,
     "date": "2021-10-26",
-    "japanese": "바지",
-    "korean": "ズボン"
+    "korean": "바지",
+    "japanese": "ズボン"
   },
   {
     "id": 610,
     "date": "2021-10-26",
-    "japanese": "천천히",
-    "korean": "(スピード)ゆっくり"
+    "korean": "천천히",
+    "japanese": "(スピード)ゆっくり"
   },
   {
     "id": 611,
     "date": "2021-10-26",
-    "japanese": "그림",
-    "korean": "絵"
+    "korean": "그림",
+    "japanese": "絵"
   },
   {
     "id": 612,
     "date": "2021-10-26",
-    "japanese": "나무",
-    "korean": "木"
+    "korean": "나무",
+    "japanese": "木"
   },
   {
     "id": 613,
     "date": "2021-10-26",
-    "japanese": "놀다",
-    "korean": "遊ぶ"
+    "korean": "놀다",
+    "japanese": "遊ぶ"
   },
   {
     "id": 614,
     "date": "2021-10-26",
-    "japanese": "앉다",
-    "korean": "座る"
+    "korean": "앉다",
+    "japanese": "座る"
   },
   {
     "id": 615,
     "date": "2021-10-26",
-    "japanese": "예약하다",
-    "korean": "予約する"
+    "korean": "예약하다",
+    "japanese": "予約する"
   },
   {
     "id": 616,
     "date": "2021-10-26",
-    "japanese": "덥다",
-    "korean": "暑い"
+    "korean": "덥다",
+    "japanese": "暑い"
   },
   {
     "id": 617,
     "date": "2021-11-01",
-    "japanese": "이용하는・・・",
-    "korean": "利用する・・・"
+    "korean": "이용하는・・・",
+    "japanese": "利用する・・・"
   },
   {
     "id": 618,
     "date": "2021-11-01",
-    "japanese": "이용해서・・・",
-    "korean": "利用して・・・"
+    "korean": "이용해서・・・",
+    "japanese": "利用して・・・"
   },
   {
     "id": 619,
     "date": "2021-11-01",
-    "japanese": "이용자",
-    "korean": "利用者"
+    "korean": "이용자",
+    "japanese": "利用者"
   },
   {
     "id": 620,
     "date": "2021-11-01",
-    "japanese": "(나이가) 많다",
-    "korean": "年上だ"
+    "korean": "(나이가) 많다",
+    "japanese": "年上だ"
   },
   {
     "id": 621,
     "date": "2021-11-01",
-    "japanese": "(나이가) 적다",
-    "korean": "年下だ"
+    "korean": "(나이가) 적다",
+    "japanese": "年下だ"
   },
   {
     "id": 622,
     "date": "2021-11-01",
-    "japanese": "(나이가) 같다",
-    "korean": "同い年だ"
+    "korean": "(나이가) 같다",
+    "japanese": "同い年だ"
   },
   {
     "id": 623,
     "date": "2021-11-01",
-    "japanese": "나이가 들다",
-    "korean": "年を取る"
+    "korean": "나이가 들다",
+    "japanese": "年を取る"
   },
   {
     "id": 624,
     "date": "2021-11-01",
-    "japanese": "동갑",
-    "korean": "同い年"
+    "korean": "동갑",
+    "japanese": "同い年"
   },
   {
     "id": 625,
     "date": "2021-11-01",
-    "japanese": "벗다",
-    "korean": "脱ぐ"
+    "korean": "벗다",
+    "japanese": "脱ぐ"
   },
   {
     "id": 626,
     "date": "2021-11-01",
-    "japanese": "치마",
-    "korean": "スカート"
+    "korean": "치마",
+    "japanese": "スカート"
   },
   {
     "id": 627,
     "date": "2021-11-01",
-    "japanese": "반바지",
-    "korean": "半ズボン"
+    "korean": "반바지",
+    "japanese": "半ズボン"
   },
   {
     "id": 628,
     "date": "2021-11-01",
-    "japanese": "바지를 입다",
-    "korean": "ズボンを履く"
+    "korean": "바지를 입다",
+    "japanese": "ズボンを履く"
   },
   {
     "id": 629,
     "date": "2021-11-01",
-    "japanese": "청바지",
-    "korean": "ジーパン"
+    "korean": "청바지",
+    "japanese": "ジーパン"
   },
   {
     "id": 630,
     "date": "2021-11-01",
-    "japanese": "어서",
-    "korean": "早く"
+    "korean": "어서",
+    "japanese": "早く"
   },
   {
     "id": 631,
     "date": "2021-11-01",
-    "japanese": "그리다",
-    "korean": "描く"
+    "korean": "그리다",
+    "japanese": "描く"
   },
   {
     "id": 632,
     "date": "2021-11-01",
-    "japanese": "걸다",
-    "korean": "掛ける"
+    "korean": "걸다",
+    "japanese": "掛ける"
   },
   {
     "id": 633,
     "date": "2021-11-01",
-    "japanese": "그림을 그리다",
-    "korean": "絵を描く"
+    "korean": "그림을 그리다",
+    "japanese": "絵を描く"
   },
   {
     "id": 634,
     "date": "2021-11-01",
-    "japanese": "그림을 걸다",
-    "korean": "絵を掛ける"
+    "korean": "그림을 걸다",
+    "japanese": "絵を掛ける"
   },
   {
     "id": 635,
     "date": "2021-11-01",
-    "japanese": "그림책",
-    "korean": "絵本"
+    "korean": "그림책",
+    "japanese": "絵本"
   },
   {
     "id": 636,
     "date": "2021-11-01",
-    "japanese": "화가",
-    "korean": "画家"
+    "korean": "화가",
+    "japanese": "画家"
   },
   {
     "id": 637,
     "date": "2021-11-01",
-    "japanese": "심다",
-    "korean": "植える"
+    "korean": "심다",
+    "japanese": "植える"
   },
   {
     "id": 638,
     "date": "2021-11-01",
-    "japanese": "나무를 심다",
-    "korean": "木を植える"
+    "korean": "나무를 심다",
+    "japanese": "木を植える"
   },
   {
     "id": 639,
     "date": "2021-11-01",
-    "japanese": "벚나무",
-    "korean": "桜の木"
+    "korean": "벚나무",
+    "japanese": "桜の木"
   },
   {
     "id": 640,
     "date": "2021-11-01",
-    "japanese": "나뭇잎",
-    "korean": "葉っぱ"
+    "korean": "나뭇잎",
+    "japanese": "葉っぱ"
   },
   {
     "id": 641,
     "date": "2021-11-01",
-    "japanese": "숲",
-    "korean": "森"
+    "korean": "숲",
+    "japanese": "森"
   },
   {
     "id": 642,
     "date": "2021-11-01",
-    "japanese": "놀러 가다",
-    "korean": "遊びにいく"
+    "korean": "놀러 가다",
+    "japanese": "遊びにいく"
   },
   {
     "id": 643,
     "date": "2021-11-01",
-    "japanese": "노는 날",
-    "korean": "休みの日"
+    "korean": "노는 날",
+    "japanese": "休みの日"
   },
   {
     "id": 644,
     "date": "2021-11-01",
-    "japanese": "쉬는 날",
-    "korean": "休みの日"
+    "korean": "쉬는 날",
+    "japanese": "休みの日"
   },
   {
     "id": 645,
     "date": "2021-11-01",
-    "japanese": "눕다",
-    "korean": "横になる"
+    "korean": "눕다",
+    "japanese": "横になる"
   },
   {
     "id": 646,
     "date": "2021-11-01",
-    "japanese": "서다",
-    "korean": "立つ"
+    "korean": "서다",
+    "japanese": "立つ"
   },
   {
     "id": 647,
     "date": "2021-11-01",
-    "japanese": "예매하다",
-    "korean": "前売りする / 前もって買う"
+    "korean": "예매하다",
+    "japanese": "前売りする / 前もって買う"
   },
   {
     "id": 648,
     "date": "2021-11-01",
-    "japanese": "취소하다",
-    "korean": "キャンセルする / 取り消しする"
+    "korean": "취소하다",
+    "japanese": "キャンセルする / 取り消しする"
   },
   {
     "id": 649,
     "date": "2021-11-01",
-    "japanese": "따뜻하다",
-    "korean": "暖かい"
+    "korean": "따뜻하다",
+    "japanese": "暖かい"
   },
   {
     "id": 650,
     "date": "2021-11-01",
-    "japanese": "춥다",
-    "korean": "寒い"
+    "korean": "춥다",
+    "japanese": "寒い"
   },
   {
     "id": 651,
     "date": "2021-11-02",
-    "japanese": "노는・・・",
-    "korean": "遊ぶ・・・"
+    "korean": "노는・・・",
+    "japanese": "遊ぶ・・・"
   },
   {
     "id": 652,
     "date": "2021-11-02",
-    "japanese": "놀아서・・・",
-    "korean": "遊んで・・・"
+    "korean": "놀아서・・・",
+    "japanese": "遊んで・・・"
   },
   {
     "id": 653,
     "date": "2021-11-02",
-    "japanese": "앉아서・・・",
-    "korean": "座って・・・"
+    "korean": "앉아서・・・",
+    "japanese": "座って・・・"
   },
   {
     "id": 654,
     "date": "2021-11-02",
-    "japanese": "더운・・・",
-    "korean": "暑い・・・"
+    "korean": "더운・・・",
+    "japanese": "暑い・・・"
   },
   {
     "id": 655,
     "date": "2021-11-02",
-    "japanese": "더워서・・・",
-    "korean": "暑くて・・・"
+    "korean": "더워서・・・",
+    "japanese": "暑くて・・・"
   },
   {
     "id": 656,
     "date": "2021-11-02",
-    "japanese": "멀다",
-    "korean": "遠い"
+    "korean": "멀다",
+    "japanese": "遠い"
   },
   {
     "id": 657,
     "date": "2021-11-02",
-    "japanese": "보이다",
-    "korean": "見える"
+    "korean": "보이다",
+    "japanese": "見える"
   },
   {
     "id": 658,
     "date": "2021-11-02",
-    "japanese": "부르다",
-    "korean": "呼ぶ / 歌う"
+    "korean": "부르다",
+    "japanese": "呼ぶ / 歌う"
   },
   {
     "id": 659,
     "date": "2021-11-02",
-    "japanese": "사용하다",
-    "korean": "使用する"
+    "korean": "사용하다",
+    "japanese": "使用する"
   },
   {
     "id": 660,
     "date": "2021-11-02",
-    "japanese": "역사",
-    "korean": "歴史"
+    "korean": "역사",
+    "japanese": "歴史"
   },
   {
     "id": 661,
     "date": "2021-11-02",
-    "japanese": "잠",
-    "korean": "睡眠"
+    "korean": "잠",
+    "japanese": "睡眠"
   },
   {
     "id": 662,
     "date": "2021-11-02",
-    "japanese": "내용",
-    "korean": "内容"
+    "korean": "내용",
+    "japanese": "内容"
   },
   {
     "id": 663,
     "date": "2021-11-02",
-    "japanese": "도착하다",
-    "korean": "到着する"
+    "korean": "도착하다",
+    "japanese": "到着する"
   },
   {
     "id": 664,
     "date": "2021-11-02",
-    "japanese": "마음",
-    "korean": "心"
+    "korean": "마음",
+    "japanese": "心"
   },
   {
     "id": 665,
     "date": "2021-11-02",
-    "japanese": "모임",
-    "korean": "集まり"
+    "korean": "모임",
+    "japanese": "集まり"
   },
   {
     "id": 666,
     "date": "2021-11-02",
-    "japanese": "먼・・・",
-    "korean": "遠い・・・"
+    "korean": "먼・・・",
+    "japanese": "遠い・・・"
   },
   {
     "id": 667,
     "date": "2021-11-02",
-    "japanese": "멀어서・・・",
-    "korean": "遠くて・・・"
+    "korean": "멀어서・・・",
+    "japanese": "遠くて・・・"
   },
   {
     "id": 668,
     "date": "2021-11-02",
-    "japanese": "보여서・・・",
-    "korean": "見えて・・・"
+    "korean": "보여서・・・",
+    "japanese": "見えて・・・"
   },
   {
     "id": 669,
     "date": "2021-11-02",
-    "japanese": "불러서・・・",
-    "korean": "呼んで・・・ / 歌って・・・"
+    "korean": "불러서・・・",
+    "japanese": "呼んで・・・ / 歌って・・・"
   },
   {
     "id": 670,
     "date": "2021-11-02",
-    "japanese": "여기에서 멀다",
-    "korean": "ここから遠い"
+    "korean": "여기에서 멀다",
+    "japanese": "ここから遠い"
   },
   {
     "id": 671,
     "date": "2021-11-02",
-    "japanese": "~아/어 보이다",
-    "korean": "~く見える"
+    "korean": "~아/어 보이다",
+    "japanese": "~く見える"
   },
   {
     "id": 672,
     "date": "2021-11-02",
-    "japanese": "가깝다",
-    "korean": "近い"
+    "korean": "가깝다",
+    "japanese": "近い"
   },
   {
     "id": 673,
     "date": "2021-11-02",
-    "japanese": "학자",
-    "korean": "学者"
+    "korean": "학자",
+    "japanese": "学者"
   },
   {
     "id": 674,
     "date": "2021-11-02",
-    "japanese": "수면",
-    "korean": "睡眠"
+    "korean": "수면",
+    "japanese": "睡眠"
   },
   {
     "id": 675,
     "date": "2021-11-02",
-    "japanese": "확인하다",
-    "korean": "確認する"
+    "korean": "확인하다",
+    "japanese": "確認する"
   },
   {
     "id": 676,
     "date": "2021-11-02",
-    "japanese": "도착지",
-    "korean": "到着地"
+    "korean": "도착지",
+    "japanese": "到着地"
   },
   {
     "id": 677,
     "date": "2021-11-02",
-    "japanese": "배가 부르다",
-    "korean": "お腹がいっぱいだ"
+    "korean": "배가 부르다",
+    "japanese": "お腹がいっぱいだ"
   },
   {
     "id": 678,
     "date": "2021-11-02",
-    "japanese": "역사 소설",
-    "korean": "歴史小説"
+    "korean": "역사 소설",
+    "japanese": "歴史小説"
   },
   {
     "id": 679,
     "date": "2021-11-02",
-    "japanese": "역사 박물관",
-    "korean": "歴史博物館"
+    "korean": "역사 박물관",
+    "japanese": "歴史博物館"
   },
   {
     "id": 680,
     "date": "2021-11-02",
-    "japanese": "역사 학자",
-    "korean": "歴史学者"
+    "korean": "역사 학자",
+    "japanese": "歴史学者"
   },
   {
     "id": 681,
     "date": "2021-11-02",
-    "japanese": "잠이 오다",
-    "korean": "眠くなる"
+    "korean": "잠이 오다",
+    "japanese": "眠くなる"
   },
   {
     "id": 682,
     "date": "2021-11-02",
-    "japanese": "잠이 들다",
-    "korean": "眠る"
+    "korean": "잠이 들다",
+    "japanese": "眠る"
   },
   {
     "id": 683,
     "date": "2021-11-02",
-    "japanese": "내용을 확인하다",
-    "korean": "内容を確認する"
+    "korean": "내용을 확인하다",
+    "japanese": "内容を確認する"
   },
   {
     "id": 684,
     "date": "2021-11-02",
-    "japanese": "회식",
-    "korean": "会食"
+    "korean": "회식",
+    "japanese": "会食"
   },
   {
     "id": 685,
     "date": "2021-11-02",
-    "japanese": "미팅",
-    "korean": "ミーティング"
+    "korean": "미팅",
+    "japanese": "ミーティング"
   },
   {
     "id": 686,
     "date": "2021-11-02",
-    "japanese": "마음이 아프다",
-    "korean": "心が痛い"
+    "korean": "마음이 아프다",
+    "japanese": "心が痛い"
   },
   {
     "id": 687,
     "date": "2021-11-02",
-    "japanese": "마음에 들다",
-    "korean": "気に入る"
+    "korean": "마음에 들다",
+    "japanese": "気に入る"
   },
   {
     "id": 688,
     "date": "2021-11-02",
-    "japanese": "마음을 먹다",
-    "korean": "決心する"
+    "korean": "마음을 먹다",
+    "japanese": "決心する"
   },
   {
     "id": 689,
     "date": "2021-11-02",
-    "japanese": "모이다",
-    "korean": "集まる"
+    "korean": "모이다",
+    "japanese": "集まる"
   },
   {
     "id": 690,
     "date": "2021-11-04",
-    "japanese": "바라다",
-    "korean": "望む / 願う"
+    "korean": "바라다",
+    "japanese": "望む / 願う"
   },
   {
     "id": 691,
     "date": "2021-11-04",
-    "japanese": "잠깐",
-    "korean": "ちょっと / しばらく"
+    "korean": "잠깐",
+    "japanese": "ちょっと / しばらく"
   },
   {
     "id": 692,
     "date": "2021-11-04",
-    "japanese": "하숙집",
-    "korean": "下宿屋"
+    "korean": "하숙집",
+    "japanese": "下宿屋"
   },
   {
     "id": 693,
     "date": "2021-11-04",
-    "japanese": "회의",
-    "korean": "会議"
+    "korean": "회의",
+    "japanese": "会議"
   },
   {
     "id": 694,
     "date": "2021-11-04",
-    "japanese": "곧",
-    "korean": "すぐ / 間もなく"
+    "korean": "곧",
+    "japanese": "すぐ / 間もなく"
   },
   {
     "id": 695,
     "date": "2021-11-04",
-    "japanese": "나쁘다",
-    "korean": "悪い"
+    "korean": "나쁘다",
+    "japanese": "悪い"
   },
   {
     "id": 696,
     "date": "2021-11-04",
-    "japanese": "문화",
-    "korean": "文化"
+    "korean": "문화",
+    "japanese": "文化"
   },
   {
     "id": 697,
     "date": "2021-11-04",
-    "japanese": "벌써",
-    "korean": "もう / すでに"
+    "korean": "벌써",
+    "japanese": "もう / すでに"
   },
   {
     "id": 698,
     "date": "2021-11-04",
-    "japanese": "여러",
-    "korean": "色々 / 様々な"
+    "korean": "여러",
+    "japanese": "色々 / 様々な"
   },
   {
     "id": 699,
     "date": "2021-11-04",
-    "japanese": "휴가",
-    "korean": "休暇"
+    "korean": "휴가",
+    "japanese": "休暇"
   },
   {
     "id": 700,
     "date": "2021-11-04",
-    "japanese": "바람",
-    "korean": "願い"
+    "korean": "바람",
+    "japanese": "願い"
   },
   {
     "id": 701,
     "date": "2021-11-04",
-    "japanese": "~기 바라다",
-    "korean": "~することを願う"
+    "korean": "~기 바라다",
+    "japanese": "~することを願う"
   },
   {
     "id": 702,
     "date": "2021-11-04",
-    "japanese": "원하다",
-    "korean": "願う"
+    "korean": "원하다",
+    "japanese": "願う"
   },
   {
     "id": 703,
     "date": "2021-11-04",
-    "japanese": "잠시",
-    "korean": "しばらく"
+    "korean": "잠시",
+    "japanese": "しばらく"
   },
   {
     "id": 704,
     "date": "2021-11-04",
-    "japanese": "오래",
-    "korean": "長く"
+    "korean": "오래",
+    "japanese": "長く"
   },
   {
     "id": 705,
     "date": "2021-11-04",
-    "japanese": "오랫동안",
-    "korean": "長い間"
+    "korean": "오랫동안",
+    "japanese": "長い間"
   },
   {
     "id": 706,
     "date": "2021-11-04",
-    "japanese": "회의를 시작하다",
-    "korean": "会議を始める"
+    "korean": "회의를 시작하다",
+    "japanese": "会議を始める"
   },
   {
     "id": 707,
     "date": "2021-11-04",
-    "japanese": "회의를 열다",
-    "korean": "会議を開く"
+    "korean": "회의를 열다",
+    "japanese": "会議を開く"
   },
   {
     "id": 708,
     "date": "2021-11-04",
-    "japanese": "하숙생",
-    "korean": "下宿者"
+    "korean": "하숙생",
+    "japanese": "下宿者"
   },
   {
     "id": 709,
     "date": "2021-11-04",
-    "japanese": "기숙사",
-    "korean": "寄宿者 / 寮"
+    "korean": "기숙사",
+    "japanese": "寄宿者 / 寮"
   },
   {
     "id": 710,
     "date": "2021-11-04",
-    "japanese": "열다",
-    "korean": "開く"
+    "korean": "열다",
+    "japanese": "開く"
   },
   {
     "id": 711,
     "date": "2021-11-04",
-    "japanese": "회의실",
-    "korean": "会議室"
+    "korean": "회의실",
+    "japanese": "会議室"
   },
   {
     "id": 712,
     "date": "2021-11-04",
-    "japanese": "금방",
-    "korean": "すぐ / 間もなく"
+    "korean": "금방",
+    "japanese": "すぐ / 間もなく"
   },
   {
     "id": 713,
     "date": "2021-11-04",
-    "japanese": "즉시",
-    "korean": "即時"
+    "korean": "즉시",
+    "japanese": "即時"
   },
   {
     "id": 714,
     "date": "2021-11-04",
-    "japanese": "나쁜・・・",
-    "korean": "悪い・・・"
+    "korean": "나쁜・・・",
+    "japanese": "悪い・・・"
   },
   {
     "id": 715,
     "date": "2021-11-04",
-    "japanese": "이제 곧",
-    "korean": "もうじき"
+    "korean": "이제 곧",
+    "japanese": "もうじき"
   },
   {
     "id": 716,
     "date": "2021-11-04",
-    "japanese": "에도시대",
-    "korean": "江戸時代"
+    "korean": "에도시대",
+    "japanese": "江戸時代"
   },
   {
     "id": 717,
     "date": "2021-11-04",
-    "japanese": "에도시대 문화",
-    "korean": "江戸時代の文化"
+    "korean": "에도시대 문화",
+    "japanese": "江戸時代の文化"
   },
   {
     "id": 718,
     "date": "2021-11-04",
-    "japanese": "한국 문화",
-    "korean": "韓国文化"
+    "korean": "한국 문화",
+    "japanese": "韓国文化"
   },
   {
     "id": 719,
     "date": "2021-11-04",
-    "japanese": "문화 생활",
-    "korean": "文化生活"
+    "korean": "문화 생활",
+    "japanese": "文化生活"
   },
   {
     "id": 720,
     "date": "2021-11-04",
-    "japanese": "이미",
-    "korean": "もう / すでに"
+    "korean": "이미",
+    "japanese": "もう / すでに"
   },
   {
     "id": 721,
     "date": "2021-11-04",
-    "japanese": "아직",
-    "korean": "まだ"
+    "korean": "아직",
+    "japanese": "まだ"
   },
   {
     "id": 722,
     "date": "2021-11-04",
-    "japanese": "나라",
-    "korean": "国"
+    "korean": "나라",
+    "japanese": "国"
   },
   {
     "id": 723,
     "date": "2021-11-04",
-    "japanese": "종류",
-    "korean": "種類"
+    "korean": "종류",
+    "japanese": "種類"
   },
   {
     "id": 724,
     "date": "2021-11-04",
-    "japanese": "여러 번",
-    "korean": "何回も"
+    "korean": "여러 번",
+    "japanese": "何回も"
   },
   {
     "id": 725,
     "date": "2021-11-08",
-    "japanese": "공연",
-    "korean": "公演"
+    "korean": "공연",
+    "japanese": "公演"
   },
   {
     "id": 726,
     "date": "2021-11-08",
-    "japanese": "눈",
-    "korean": "雪"
+    "korean": "눈",
+    "japanese": "雪"
   },
   {
     "id": 727,
     "date": "2021-11-08",
-    "japanese": "막히다",
-    "korean": "詰まる / 渋滞する"
+    "korean": "막히다",
+    "japanese": "詰まる / 渋滞する"
   },
   {
     "id": 728,
     "date": "2021-11-08",
-    "japanese": "사랑하다",
-    "korean": "愛する"
+    "korean": "사랑하다",
+    "japanese": "愛する"
   },
   {
     "id": 729,
     "date": "2021-11-08",
-    "japanese": "산책",
-    "korean": "散歩"
+    "korean": "산책",
+    "japanese": "散歩"
   },
   {
     "id": 730,
     "date": "2021-11-08",
-    "japanese": "신발",
-    "korean": "履物 / 靴"
+    "korean": "신발",
+    "japanese": "履物 / 靴"
   },
   {
     "id": 731,
     "date": "2021-11-08",
-    "japanese": "연필",
-    "korean": "鉛筆"
+    "korean": "연필",
+    "japanese": "鉛筆"
   },
   {
     "id": 732,
     "date": "2021-11-08",
-    "japanese": "전공",
-    "korean": "専攻"
+    "korean": "전공",
+    "japanese": "専攻"
   },
   {
     "id": 733,
     "date": "2021-11-08",
-    "japanese": "졸업",
-    "korean": "卒業"
+    "korean": "졸업",
+    "japanese": "卒業"
   },
   {
     "id": 734,
     "date": "2021-11-08",
-    "japanese": "춥다",
-    "korean": "寒い"
+    "korean": "춥다",
+    "japanese": "寒い"
   },
   {
     "id": 735,
     "date": "2021-11-08",
-    "japanese": "공연장",
-    "korean": "会場 / 公演場"
+    "korean": "공연장",
+    "japanese": "会場 / 公演場"
   },
   {
     "id": 736,
     "date": "2021-11-08",
-    "japanese": "공연을 보다",
-    "korean": "公演を見る"
+    "korean": "공연을 보다",
+    "japanese": "公演を見る"
   },
   {
     "id": 737,
     "date": "2021-11-08",
-    "japanese": "눈이 오다",
-    "korean": "雪が降る"
+    "korean": "눈이 오다",
+    "japanese": "雪が降る"
   },
   {
     "id": 738,
     "date": "2021-11-08",
-    "japanese": "눈이 내리다",
-    "korean": "雪が降る"
+    "korean": "눈이 내리다",
+    "japanese": "雪が降る"
   },
   {
     "id": 739,
     "date": "2021-11-08",
-    "japanese": "쌓이다",
-    "korean": "積もる"
+    "korean": "쌓이다",
+    "japanese": "積もる"
   },
   {
     "id": 740,
     "date": "2021-11-08",
-    "japanese": "눈이 쌓이다",
-    "korean": "雪が積もる"
+    "korean": "눈이 쌓이다",
+    "japanese": "雪が積もる"
   },
   {
     "id": 741,
     "date": "2021-11-08",
-    "japanese": "눈사람",
-    "korean": "雪だるま"
+    "korean": "눈사람",
+    "japanese": "雪だるま"
   },
   {
     "id": 742,
     "date": "2021-11-08",
-    "japanese": "눈썰매",
-    "korean": "雪そり"
+    "korean": "눈썰매",
+    "japanese": "雪そり"
   },
   {
     "id": 743,
     "date": "2021-11-08",
-    "japanese": "눈싸움",
-    "korean": "雪合戦"
+    "korean": "눈싸움",
+    "japanese": "雪合戦"
   },
   {
     "id": 744,
     "date": "2021-11-08",
-    "japanese": "길",
-    "korean": "道"
+    "korean": "길",
+    "japanese": "道"
   },
   {
     "id": 745,
     "date": "2021-11-08",
-    "japanese": "목",
-    "korean": "喉"
+    "korean": "목",
+    "japanese": "喉"
   },
   {
     "id": 746,
     "date": "2021-11-08",
-    "japanese": "길이 막히다",
-    "korean": "道が混む / 渋滞する"
+    "korean": "길이 막히다",
+    "japanese": "道が混む / 渋滞する"
   },
   {
     "id": 747,
     "date": "2021-11-08",
-    "japanese": "목이 막히다",
-    "korean": "喉が詰まる"
+    "korean": "목이 막히다",
+    "japanese": "喉が詰まる"
   },
   {
     "id": 748,
     "date": "2021-11-08",
-    "japanese": "사랑에 빠지다",
-    "korean": "恋に落ちる"
+    "korean": "사랑에 빠지다",
+    "japanese": "恋に落ちる"
   },
   {
     "id": 749,
     "date": "2021-11-08",
-    "japanese": "미워하다",
-    "korean": "憎む"
+    "korean": "미워하다",
+    "japanese": "憎む"
   },
   {
     "id": 750,
     "date": "2021-11-09",
-    "japanese": "공원에서 산책하다",
-    "korean": "公園で散歩する"
+    "korean": "공원에서 산책하다",
+    "japanese": "公園で散歩する"
   },
   {
     "id": 751,
     "date": "2021-11-09",
-    "japanese": "벗다",
-    "korean": "脱ぐ"
+    "korean": "벗다",
+    "japanese": "脱ぐ"
   },
   {
     "id": 752,
     "date": "2021-11-09",
-    "japanese": "신발장",
-    "korean": "下駄箱"
+    "korean": "신발장",
+    "japanese": "下駄箱"
   },
   {
     "id": 753,
     "date": "2021-11-09",
-    "japanese": "굽",
-    "korean": "かかと"
+    "korean": "굽",
+    "japanese": "かかと"
   },
   {
     "id": 754,
     "date": "2021-11-09",
-    "japanese": "높다",
-    "korean": "高い"
+    "korean": "높다",
+    "japanese": "高い"
   },
   {
     "id": 755,
     "date": "2021-11-09",
-    "japanese": "깎다",
-    "korean": "削る"
+    "korean": "깎다",
+    "japanese": "削る"
   },
   {
     "id": 756,
     "date": "2021-11-09",
-    "japanese": "지우개",
-    "korean": "消しゴム"
+    "korean": "지우개",
+    "japanese": "消しゴム"
   },
   {
     "id": 757,
     "date": "2021-11-09",
-    "japanese": "신발을 신다",
-    "korean": "靴を履く"
+    "korean": "신발을 신다",
+    "japanese": "靴を履く"
   },
   {
     "id": 758,
     "date": "2021-11-09",
-    "japanese": "신발을 벗다",
-    "korean": "靴を脱ぐ"
+    "korean": "신발을 벗다",
+    "japanese": "靴を脱ぐ"
   },
   {
     "id": 759,
     "date": "2021-11-09",
-    "japanese": "굽이 높은 신발",
-    "korean": "かかとの高い靴"
+    "korean": "굽이 높은 신발",
+    "japanese": "かかとの高い靴"
   },
   {
     "id": 760,
     "date": "2021-11-09",
-    "japanese": "연필로 쓰다",
-    "korean": "鉛筆で書く"
+    "korean": "연필로 쓰다",
+    "japanese": "鉛筆で書く"
   },
   {
     "id": 761,
     "date": "2021-11-09",
-    "japanese": "연필을 깎다",
-    "korean": "鉛筆を削る"
+    "korean": "연필을 깎다",
+    "japanese": "鉛筆を削る"
   },
   {
     "id": 762,
     "date": "2021-11-09",
-    "japanese": "볼펜",
-    "korean": "ボールペン"
+    "korean": "볼펜",
+    "japanese": "ボールペン"
   },
   {
     "id": 763,
     "date": "2021-11-09",
-    "japanese": "분야",
-    "korean": "分野"
+    "korean": "분야",
+    "japanese": "分野"
   },
   {
     "id": 764,
     "date": "2021-11-09",
-    "japanese": "과목",
-    "korean": "科目"
+    "korean": "과목",
+    "japanese": "科目"
   },
   {
     "id": 765,
     "date": "2021-11-09",
-    "japanese": "전공 분야",
-    "korean": "専攻分野"
+    "korean": "전공 분야",
+    "japanese": "専攻分野"
   },
   {
     "id": 766,
     "date": "2021-11-09",
-    "japanese": "전공 과목",
-    "korean": "専攻科目"
+    "korean": "전공 과목",
+    "japanese": "専攻科目"
   },
   {
     "id": 767,
     "date": "2021-11-09",
-    "japanese": "졸업생",
-    "korean": "卒業生"
+    "korean": "졸업생",
+    "japanese": "卒業生"
   },
   {
     "id": 768,
     "date": "2021-11-09",
-    "japanese": "졸업자",
-    "korean": "卒業者"
+    "korean": "졸업자",
+    "japanese": "卒業者"
   },
   {
     "id": 769,
     "date": "2021-11-09",
-    "japanese": "졸업식",
-    "korean": "卒業式"
+    "korean": "졸업식",
+    "japanese": "卒業式"
   },
   {
     "id": 770,
     "date": "2021-11-09",
-    "japanese": "입학",
-    "korean": "入学"
+    "korean": "입학",
+    "japanese": "入学"
   },
   {
     "id": 771,
     "date": "2021-11-09",
-    "japanese": "날씨",
-    "korean": "天気"
+    "korean": "날씨",
+    "japanese": "天気"
   },
   {
     "id": 772,
     "date": "2021-11-09",
-    "japanese": "날씨가 춥다",
-    "korean": "天気が寒い"
+    "korean": "날씨가 춥다",
+    "japanese": "天気が寒い"
   },
   {
     "id": 773,
     "date": "2021-11-09",
-    "japanese": "시원하다",
-    "korean": "涼しい"
+    "korean": "시원하다",
+    "japanese": "涼しい"
   },
   {
     "id": 774,
     "date": "2021-11-09",
-    "japanese": "쌀쌀하다",
-    "korean": "肌寒い"
+    "korean": "쌀쌀하다",
+    "japanese": "肌寒い"
   },
   {
     "id": 775,
     "date": "2021-11-11",
-    "japanese": "필요하다",
-    "korean": "必要だ"
+    "korean": "필요하다",
+    "japanese": "必要だ"
   },
   {
     "id": 776,
     "date": "2021-11-11",
-    "japanese": "혼자",
-    "korean": "ひとり"
+    "korean": "혼자",
+    "japanese": "ひとり"
   },
   {
     "id": 777,
     "date": "2021-11-11",
-    "japanese": "걸다",
-    "korean": "掛ける"
+    "korean": "걸다",
+    "japanese": "掛ける"
   },
   {
     "id": 778,
     "date": "2021-11-11",
-    "japanese": "모이다",
-    "korean": "集まる"
+    "korean": "모이다",
+    "japanese": "集まる"
   },
   {
     "id": 779,
     "date": "2021-11-11",
-    "japanese": "못하다",
-    "korean": "できない / 下手だ"
+    "korean": "못하다",
+    "japanese": "できない / 下手だ"
   },
   {
     "id": 780,
     "date": "2021-11-11",
-    "japanese": "반",
-    "korean": "半 / 半分"
+    "korean": "반",
+    "japanese": "半 / 半分"
   },
   {
     "id": 781,
     "date": "2021-11-11",
-    "japanese": "복잡하다",
-    "korean": "複雑だ / 混んでいる"
+    "korean": "복잡하다",
+    "japanese": "複雑だ / 混んでいる"
   },
   {
     "id": 782,
     "date": "2021-11-13",
-    "japanese": "필요한・・・",
-    "korean": "必要な・・・"
+    "korean": "필요한・・・",
+    "japanese": "必要な・・・"
   },
   {
     "id": 783,
     "date": "2021-11-13",
-    "japanese": "필요해서・・・",
-    "korean": "必要で・・・"
+    "korean": "필요해서・・・",
+    "japanese": "必要で・・・"
   },
   {
     "id": 784,
     "date": "2021-11-13",
-    "japanese": "필요한 물건",
-    "korean": "必要なもの"
+    "korean": "필요한 물건",
+    "japanese": "必要なもの"
   },
   {
     "id": 785,
     "date": "2021-11-13",
-    "japanese": "필요 없다",
-    "korean": "必要ない"
+    "korean": "필요 없다",
+    "japanese": "必要ない"
   },
   {
     "id": 786,
     "date": "2021-11-13",
-    "japanese": "불필요하다",
-    "korean": "不要だ"
+    "korean": "불필요하다",
+    "japanese": "不要だ"
   },
   {
     "id": 787,
     "date": "2021-11-13",
-    "japanese": "언제나",
-    "korean": "いつも"
+    "korean": "언제나",
+    "japanese": "いつも"
   },
   {
     "id": 788,
     "date": "2021-11-13",
-    "japanese": "가끔",
-    "korean": "たまに"
+    "korean": "가끔",
+    "japanese": "たまに"
   },
   {
     "id": 789,
     "date": "2021-11-13",
-    "japanese": "혼자서",
-    "korean": "ひとりで"
+    "korean": "혼자서",
+    "japanese": "ひとりで"
   },
   {
     "id": 790,
     "date": "2021-11-13",
-    "japanese": "혼자 살다",
-    "korean": "一人暮らしする"
+    "korean": "혼자 살다",
+    "japanese": "一人暮らしする"
   },
   {
     "id": 791,
     "date": "2021-11-13",
-    "japanese": "둘이서",
-    "korean": "2人で"
+    "korean": "둘이서",
+    "japanese": "2人で"
   },
   {
     "id": 792,
     "date": "2021-11-13",
-    "japanese": "홀로",
-    "korean": "ひとりきりで"
+    "korean": "홀로",
+    "japanese": "ひとりきりで"
   },
   {
     "id": 793,
     "date": "2021-11-13",
-    "japanese": "말",
-    "korean": "言葉 / 話す"
+    "korean": "말",
+    "japanese": "言葉 / 話す"
   },
   {
     "id": 794,
     "date": "2021-11-13",
-    "japanese": "스스로",
-    "korean": "自ら"
+    "korean": "스스로",
+    "japanese": "自ら"
   },
   {
     "id": 795,
     "date": "2021-11-13",
-    "japanese": "옷걸이",
-    "korean": "ハンガー"
+    "korean": "옷걸이",
+    "japanese": "ハンガー"
   },
   {
     "id": 796,
     "date": "2021-11-13",
-    "japanese": "전화를 걸다",
-    "korean": "電話を掛ける"
+    "korean": "전화를 걸다",
+    "japanese": "電話を掛ける"
   },
   {
     "id": 797,
     "date": "2021-11-13",
-    "japanese": "말을 걸다",
-    "korean": "話しかける"
+    "korean": "말을 걸다",
+    "japanese": "話しかける"
   },
   {
     "id": 798,
     "date": "2021-11-13",
-    "japanese": "옷걸이에 옷을 걸다",
-    "korean": "ハンガーに服を掛ける"
+    "korean": "옷걸이에 옷을 걸다",
+    "japanese": "ハンガーに服を掛ける"
   },
   {
     "id": 799,
     "date": "2021-11-13",
-    "japanese": "거는・・・",
-    "korean": "掛ける・・・"
+    "korean": "거는・・・",
+    "japanese": "掛ける・・・"
   },
   {
     "id": 800,
     "date": "2021-11-13",
-    "japanese": "걸어서・・・",
-    "korean": "掛けて・・・"
+    "korean": "걸어서・・・",
+    "japanese": "掛けて・・・"
   },
   {
     "id": 801,
     "date": "2021-11-13",
-    "japanese": "간식",
-    "korean": "おやつ / 間食"
+    "korean": "간식",
+    "japanese": "おやつ / 間食"
   },
   {
     "id": 802,
     "date": "2021-11-13",
-    "japanese": "한과",
-    "korean": "韓国の伝統菓子"
+    "korean": "한과",
+    "japanese": "韓国の伝統菓子"
   },
   {
     "id": 803,
     "date": "2021-11-13",
-    "japanese": "모임",
-    "korean": "集まり"
+    "korean": "모임",
+    "japanese": "集まり"
   },
   {
     "id": 804,
     "date": "2021-11-13",
-    "japanese": "모이는・・・",
-    "korean": "集まる・・・"
+    "korean": "모이는・・・",
+    "japanese": "集まる・・・"
   },
   {
     "id": 805,
     "date": "2021-11-13",
-    "japanese": "모여서・・・",
-    "korean": "集まって・・・"
+    "korean": "모여서・・・",
+    "japanese": "集まって・・・"
   },
   {
     "id": 806,
     "date": "2021-11-13",
-    "japanese": "정문",
-    "korean": "正門"
+    "korean": "정문",
+    "japanese": "正門"
   },
   {
     "id": 807,
     "date": "2021-11-13",
-    "japanese": "헤어지다",
-    "korean": "別れる"
+    "korean": "헤어지다",
+    "japanese": "別れる"
   },
   {
     "id": 808,
     "date": "2021-11-13",
-    "japanese": "기숙사에서 살다",
-    "korean": "寄宿舎に住む"
+    "korean": "기숙사에서 살다",
+    "japanese": "寄宿舎に住む"
   },
   {
     "id": 809,
     "date": "2021-11-13",
-    "japanese": "기숙사에 들어가다",
-    "korean": "寄宿舎に入る"
+    "korean": "기숙사에 들어가다",
+    "japanese": "寄宿舎に入る"
   },
   {
     "id": 810,
     "date": "2021-11-13",
-    "japanese": "~을/를 못하다",
-    "korean": "~が下手だ"
+    "korean": "~을/를 못하다",
+    "japanese": "~が下手だ"
   },
   {
     "id": 811,
     "date": "2021-11-13",
-    "japanese": "~지 못하다",
-    "korean": "~ができない"
+    "korean": "~지 못하다",
+    "japanese": "~ができない"
   },
   {
     "id": 812,
     "date": "2021-11-13",
-    "japanese": "정문에서 모이다",
-    "korean": "正門で集まる"
+    "korean": "정문에서 모이다",
+    "japanese": "正門で集まる"
   },
   {
     "id": 813,
     "date": "2021-11-13",
-    "japanese": "나누다",
-    "korean": "分ける"
+    "korean": "나누다",
+    "japanese": "分ける"
   },
   {
     "id": 814,
     "date": "2021-11-13",
-    "japanese": "1시 반",
-    "korean": "1時半"
+    "korean": "1시 반",
+    "japanese": "1時半"
   },
   {
     "id": 815,
     "date": "2021-11-13",
-    "japanese": "반으로 나누다",
-    "korean": "半分に分ける"
+    "korean": "반으로 나누다",
+    "japanese": "半分に分ける"
   },
   {
     "id": 816,
     "date": "2021-11-13",
-    "japanese": "잘하다",
-    "korean": "上手だ"
+    "korean": "잘하다",
+    "japanese": "上手だ"
   },
   {
     "id": 817,
     "date": "2021-11-13",
-    "japanese": "못하는・・・",
-    "korean": "できない・・・"
+    "korean": "못하는・・・",
+    "japanese": "できない・・・"
   },
   {
     "id": 818,
     "date": "2021-11-13",
-    "japanese": "못해서・・・",
-    "korean": "できなくて・・・"
+    "korean": "못해서・・・",
+    "japanese": "できなくて・・・"
   },
   {
     "id": 819,
     "date": "2021-11-15",
-    "japanese": "숙제",
-    "korean": "宿題"
+    "korean": "숙제",
+    "japanese": "宿題"
   },
   {
     "id": 820,
     "date": "2021-11-15",
-    "japanese": "시청",
-    "korean": "市庁"
+    "korean": "시청",
+    "japanese": "市庁"
   },
   {
     "id": 821,
     "date": "2021-11-15",
-    "japanese": "오래",
-    "korean": "長く"
+    "korean": "오래",
+    "japanese": "長く"
   },
   {
     "id": 822,
     "date": "2021-11-15",
-    "japanese": "의자",
-    "korean": "椅子"
+    "korean": "의자",
+    "japanese": "椅子"
   },
   {
     "id": 823,
     "date": "2021-11-15",
-    "japanese": "이제",
-    "korean": "もう / すでに"
+    "korean": "이제",
+    "japanese": "もう / すでに"
   },
   {
     "id": 824,
     "date": "2021-11-15",
-    "japanese": "즐겁다",
-    "korean": "楽しい"
+    "korean": "즐겁다",
+    "japanese": "楽しい"
   },
   {
     "id": 825,
     "date": "2021-11-15",
-    "japanese": "걱정하다",
-    "korean": "心配する"
+    "korean": "걱정하다",
+    "japanese": "心配する"
   },
   {
     "id": 826,
     "date": "2021-11-15",
-    "japanese": "건물",
-    "korean": "建物"
+    "korean": "건물",
+    "japanese": "建物"
   },
   {
     "id": 827,
     "date": "2021-11-15",
-    "japanese": "담배",
-    "korean": "タバコ"
+    "korean": "담배",
+    "japanese": "タバコ"
   },
   {
     "id": 828,
     "date": "2021-11-15",
-    "japanese": "방법",
-    "korean": "方法"
+    "korean": "방법",
+    "japanese": "方法"
   },
   {
     "id": 829,
     "date": "2021-11-15",
-    "japanese": "어서",
-    "korean": "どうぞ"
+    "korean": "어서",
+    "japanese": "どうぞ"
   },
   {
     "id": 830,
     "date": "2021-11-15",
-    "japanese": "여행사",
-    "korean": "旅行会社"
+    "korean": "여행사",
+    "japanese": "旅行会社"
   },
   {
     "id": 831,
     "date": "2021-11-15",
-    "japanese": "오랜만",
-    "korean": "久しぶり"
+    "korean": "오랜만",
+    "japanese": "久しぶり"
   },
   {
     "id": 832,
     "date": "2021-11-15",
-    "japanese": "잃어버리다",
-    "korean": "失くしてしまう"
+    "korean": "잃어버리다",
+    "japanese": "失くしてしまう"
   },
   {
     "id": 833,
     "date": "2021-11-15",
-    "japanese": "행사",
-    "korean": "行事 / イベント"
+    "korean": "행사",
+    "japanese": "行事 / イベント"
   },
   {
     "id": 834,
     "date": "2021-11-15",
-    "japanese": "값",
-    "korean": "値段"
+    "korean": "값",
+    "japanese": "値段"
   },
   {
     "id": 835,
     "date": "2021-11-15",
-    "japanese": "결혼",
-    "korean": "結構"
+    "korean": "결혼",
+    "japanese": "結構"
   },
   {
     "id": 836,
     "date": "2021-11-15",
-    "japanese": "꽃집",
-    "korean": "花屋"
+    "korean": "꽃집",
+    "japanese": "花屋"
   },
   {
     "id": 837,
     "date": "2021-11-15",
-    "japanese": "들어오다",
-    "korean": "入る / 入ってくる"
+    "korean": "들어오다",
+    "japanese": "入る / 入ってくる"
   },
   {
     "id": 838,
     "date": "2021-11-18",
-    "japanese": "안경",
-    "korean": "メガネ"
+    "korean": "안경",
+    "japanese": "メガネ"
   },
   {
     "id": 839,
     "date": "2021-11-18",
-    "japanese": "열다",
-    "korean": "開ける / 開く"
+    "korean": "열다",
+    "japanese": "開ける / 開く"
   },
   {
     "id": 840,
     "date": "2021-11-18",
-    "japanese": "요금",
-    "korean": "料金"
+    "korean": "요금",
+    "japanese": "料金"
   },
   {
     "id": 841,
     "date": "2021-11-18",
-    "japanese": "제일",
-    "korean": "一番 / 最も / 一番に"
+    "korean": "제일",
+    "japanese": "一番 / 最も / 一番に"
   },
   {
     "id": 842,
     "date": "2021-11-18",
-    "japanese": "집",
-    "korean": "家"
+    "korean": "집",
+    "japanese": "家"
   },
   {
     "id": 843,
     "date": "2021-11-18",
-    "japanese": "창문",
-    "korean": "窓"
+    "korean": "창문",
+    "japanese": "窓"
   },
   {
     "id": 844,
     "date": "2021-11-18",
-    "japanese": "치마",
-    "korean": "スカート"
+    "korean": "치마",
+    "japanese": "スカート"
   },
   {
     "id": 845,
     "date": "2021-11-18",
-    "japanese": "감기",
-    "korean": "風邪"
+    "korean": "감기",
+    "japanese": "風邪"
   },
   {
     "id": 846,
     "date": "2021-11-18",
-    "japanese": "관심",
-    "korean": "関心 / 興味"
+    "korean": "관심",
+    "japanese": "関心 / 興味"
   },
   {
     "id": 847,
     "date": "2021-11-18",
-    "japanese": "교실",
-    "korean": "教室"
+    "korean": "교실",
+    "japanese": "教室"
   },
 ];
 
